@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m currently an A-level student 🥲<br>- 📚 I'm currently learning Computer Science, Physics and Maths<br>- ⚡ In my free time I watch a whole lotta YouTube and play badminton 🏸😎</p>
+<p align="left">I'm Bart and I'm from Spain but currently living in England<br><br>- 🔭 I’m currently an A-level student 🥲<br>- 📚 I'm currently learning Computer Science, Physics and Maths<br>- ⚡ In my free time I watch a whole lotta YouTube and play badminton 🏸😎</p>
 
 ###
 
