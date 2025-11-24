@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/MsDhsn6a3EIAAAAd/terry-davis.gif"  />
+  <img height="300" src="https://media1.tenor.com/m/MsDhsn6a3EIAAAAd/terry-davis.gif"  />
 </div>
 
 ###
