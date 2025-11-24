@@ -60,10 +60,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<img src="https://raw.githubusercontent.com/Jahno-Bart/Jahno-Bart/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jahno-Bart&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
