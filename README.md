@@ -1,8 +1,42 @@
-<h2 align="left">Hello 👋, I'm Bart and I'm an A-Level student located in England</h2>
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/MsDhsn6a3EIAAAAd/terry-davis.gif"  />
+</div>
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/MsDhsn6a3EIAAAAd/terry-davis.gif"  />
+<div align="left">
+  <a href="https://www.youtube.com/@Bartosz-H" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/487686836391641090" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bartosz-hamela-463023384/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jahno-Bart.Jahno-Bart&"  />
+</div>
+
+###
+
+<h1 align="center">What's good gang 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m currently an A-level student 🥲<br>- 📚 I'm currently learning Computer Science, Physics and Maths<br>- ⚡ In my free time I watch a whole lotta YouTube and play badminton 🏸😎</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -26,16 +60,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@Bartosz-H" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/users/487686836391641090" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bartosz-hamela-463023384/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jahno-Bart&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
